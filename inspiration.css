@@ -40,6 +40,8 @@ body {
   background-color: transparent;
   border-bottom: .25rem solid transparent;
   margin-bottom: 1rem;
+  font-family: 'Linden Hill', serif;
+  font-size: 1.35em;
 }
 
 .nav-masthead .nav-link:hover,

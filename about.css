@@ -24,12 +24,15 @@ body {
 }
 
 img {
-  border-radius: 90%;
+  border-radius: 95%;
 }
-
 
 p {
   font-family: 'Linden Hill', serif;
+}
+
+h2 {
+    font-family: 'Linden Hill', serif; 
 }
 
 .cover-container {
